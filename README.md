@@ -44,8 +44,8 @@ This repository contains a **Power BI dashboard** that analyzes **IPL 2023 seaso
 
 ---
 
-## 📸 Dashboard Preview
-![IPL Dashboard](IPL DASHBOARD.png)
+## 📸 Dashboard Website 
+https://app.powerbi.com/groups/me/reports/b53455c7-77cd-4244-b237-96dbeb79927e/d8917c5d9d9a650675c9?experience=power-bi
 
 ---
 
